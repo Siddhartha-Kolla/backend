@@ -1,0 +1,37 @@
+NAME;PPL;VOLUME;FIRST;SECOND;THIRD;PLASTIC;GLASS;IMAGE;CATEGORY;CAPACITY
+"Adelholzener Mineralwasser Naturell";1.66;0.75;6;12;30;0.25;0.5;"min_was_adel_nat_point_sevenfive.png";"water";20
+"Adelholzener Mineralwasser Naturell";1.17;1.0;6;12;30;0.25;0.5;"min_was_adel_nat_one.png";"water";20
+"Adelholzener Mineralwasser Extra Still";1.54;0.5;6;12;30;0.25;0.5;"min_was_adel_ext_point_five.png";"water";20
+"Adelholzener Mineralwasser Extra Still";1.83;0.75;6;12;30;0.25;0.5;"min_was_adel_ext_point_sevenfive.png";"water";20
+"Adelholzener Mineralwasser Extra Still";0.87;1.0;6;12;30;0.25;0.5;"min_was_adel_ext_one.png";"water";20
+"Adelholzener Mineralwasser Sanft";1.23;0.5;6;12;30;0.25;0.5;"min_was_adel_san_point_five.png";"water";20
+"Adelholzener Mineralwasser Sanft";1.28;0.75;6;12;30;0.25;0.5;"min_was_adel_san_point_sevenfive.jpg";"water";20
+"Adelholzener Mineralwasser Sanft";0.79;1.0;6;12;30;0.25;0.5;"min_was_adel_san_one.png";"water";20
+"Adelholzener Mineralwasser Classic";1.67;0.5;6;12;30;0.25;0.5;"min_was_adel_cla_point_five.jpg";"water";20
+"Adelholzener Mineralwasser Classic";1.28;0.75;6;12;30;0.25;0.5;"min_was_adel_cla_point_sevenfive.png";"water";20
+"Adelholzener Mineralwasser Classic";0.87;1.0;6;12;30;0.25;0.5;"min_was_adel_cla_one.jpg";"water";20
+"Edeka Bio Apfelsaft Naturtrueb";2.49;1;6;12;30;0.25;0.5;"apf_saf_edek_one.png";"juice";20
+"Rauch happy day Orangensaft Mild";3.30;1;6;12;30;0.25;0.5;"ora_saf_rau_one.png";"juice";20
+"hohes C Multivitaminsaft";3.42;1;6;12;30;0.25;0.5;"mul_saf_hoh_one.png";"juice";20
+"dennree Traubensaft";3.28;1;6;12;30;0.25;0.5;"tra_saf_den_one.png";"juice";20
+"Alnatura Fruestueckssaft";4.32;0.75;6;12;30;0.25;0.5;"fru_saf_aln_point_sevenfive.png";"juice";20
+"Coca-Cola";2.49;1;6;12;30;0.25;0.5;"col_coc_one.jpg";"softdrinks";20
+"Lipton Pfirsich Eistee";2.18;0.5;6;12;30;0.25;0.5;"pfi_eis_lip_point_five.png";"softdrinks";20
+"fritz-limo Zitronenlimonade";10.86;0.33;6;12;30;0.25;0.5;"zit_lim_fri_point_threethree.jpg";"softdrinks";20
+"Red Bull Energy";5.0;0.25;6;12;30;0.25;0.5;"ene_dri_red_point_twofive.jpg";"softdrinks";20
+"lift Apfelschorle";2.98;0.5;6;12;30;0.25;0.5;"apf_sch_lif_point_five.jpg";"softdrinks";20
+"Jacobs Espresso";56.9;0.1;6;12;30;0.25;0.5;"esp_jac_point_one.png";"warm";20
+"Kaba Kakao";8.0;0.4;6;12;30;0.25;0.5;"kak_kab_point_four.png";"warm";20
+"Heisser Hirsch Punsch alkoholfrei";5.32;0.75;6;12;30;0.25;0.5;"pun_hei_point_sevenfive.png";"warm";20
+"Teekanne Tee Mediterraner Pfirsich";45.4;0.05;6;12;30;0.25;0.5;"fru_tee_tee_med_point_zerofive.jpg";"warm";20
+"Pukka Tee Matcha Green";133.0;0.03;6;12;30;0.25;0.5;"kra_tee_puk_mat_point_zerothree.png";"warm";20
+"Krombacher Pils";3.34;0.33;6;12;30;0.25;0.5;"bie_kro_pil_point_threethree.png";"beer";20
+"Beck's Pils";1.88;0.5;6;12;30;0.25;0.5;"bie_bec_pil_point_five.png";"beer";20
+"Bitburger Premium Pils";2.3;0.5;6;12;30;0.25;0.5;"bie_bit_pre_point_five.png";"beer";20
+"Heineken Bier Premium";10.10;0.33;6;12;30;0.25;0.5;"bie_hei_pre_point_threethree.png";"beer";20
+"Schoefferhofer Weizen naturtrüb";4.98;0.5;6;12;30;0.25;0.5;"bie_sch_wei_point_five.jpg";"beer";20
+"Faustino I Gran Reserva";22.6;0.75;6;12;30;0.25;0.5;"wei_fau_gra_point_sevenfive.png";"wine";20
+"Cinolo Primitivo";9.32;0.75;6;12;30;0.25;0.5;"wei_cin_pri_point_sevenfive.png";"wine";20
+"Wachenheimer Altenburg P.C.";42.53;0.75;6;12;30;0.25;0.5;"wei_wac_alt_point_sevenfive.png";"wine";20
+"Hirschhof Weissburgunder Qualitätswein";10.13;0.75;6;12;30;0.25;0.5;"wei_hir_wei_point_sevenfive.png";"wine";20
+"Baden Rosewein";6.99;1.0;6;12;30;0.25;0.5;"wei_bad_ros_one.png";"wine";20
