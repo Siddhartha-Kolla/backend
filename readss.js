@@ -7,11 +7,12 @@ let sql = `SELECT *
             WHERE CATEGORY = ?
             ORDER BY NAME`;
 
-db.each(sql, ['water'], (err, row) => {
+db.each(sql, ['dalksfkajkjsalkjflksajflkj'], (err, row) => {
   if (err) {
+    console.log(err)
     throw err;
   }
-  console.log(row);
+  console.log("Row",row);
 });
 
 // close the database connection

@@ -1,6 +1,6 @@
 const fs = require("fs");
 const sqlite3 = require("sqlite3").verbose();
-const filepath = "./service.db";
+const filepath = "./users.db";
 
 function createDbConnection() {
   if (fs.existsSync(filepath)) {
@@ -20,18 +20,9 @@ function createDbConnection() {
 function createTable(db) {
   db.exec(`
   CREATE TABLE Service (
-  ID INTEGER PRIMARY KEY AUTOINCREMENT,
-  NAME varchar(2000),
-  PPL float,
-  VOLUME float,
-  FIRST int,
-  SECOND int,
-  THIRD int,
-  PLASTIC float,
-  GLASS float,
-  IMAGE varchar(60000),
-  CATEGORY varchar(2000),
-  CAPACITY int
+  USERNAME varchar(2000),
+  EMAIL varchar(2000),
+  CARTITEMS TEXT
 );
 `);
 }
